@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodBytes.Infrastructure.Utils", "GoodBytes.Infrastructure.Utils.csproj", "{A2BDA77C-5F4F-441E-8004-D9CF37D49299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Community|Any CPU = Community|Any CPU
+		CommunityTest|Any CPU = CommunityTest|Any CPU
+		Criticas|Any CPU = Criticas|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		FootballChildren|Any CPU = FootballChildren|Any CPU
+		Interesart|Any CPU = Interesart|Any CPU
+		ProgramandoEn|Any CPU = ProgramandoEn|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Technologia|Any CPU = Technologia|Any CPU
+		TravelLibre|Any CPU = TravelLibre|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Community|Any CPU.ActiveCfg = Community|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Community|Any CPU.Build.0 = Community|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.CommunityTest|Any CPU.ActiveCfg = CommunityTest|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.CommunityTest|Any CPU.Build.0 = CommunityTest|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Criticas|Any CPU.ActiveCfg = Criticas|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Criticas|Any CPU.Build.0 = Criticas|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.FootballChildren|Any CPU.ActiveCfg = FootballChildren|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.FootballChildren|Any CPU.Build.0 = FootballChildren|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Interesart|Any CPU.ActiveCfg = Interesart|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Interesart|Any CPU.Build.0 = Interesart|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.ProgramandoEn|Any CPU.ActiveCfg = ProgramandoEn|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.ProgramandoEn|Any CPU.Build.0 = ProgramandoEn|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Technologia|Any CPU.ActiveCfg = Technologia|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.Technologia|Any CPU.Build.0 = Technologia|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.TravelLibre|Any CPU.ActiveCfg = TravelLibre|Any CPU
+		{A2BDA77C-5F4F-441E-8004-D9CF37D49299}.TravelLibre|Any CPU.Build.0 = TravelLibre|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
